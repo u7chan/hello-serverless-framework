@@ -1,0 +1,7 @@
+@baseUrl = ...
+
+#### hello
+POST {{baseUrl}}/dev/hello
+Content-Type: application/json
+
+{ "name": "SpongeBob" }
