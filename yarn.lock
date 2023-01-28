@@ -52,22 +52,22 @@
   resolved "https://registry.yarnpkg.com/@kwsites/promise-deferred/-/promise-deferred-1.1.1.tgz#8ace5259254426ccef57f3175bc64ed7095ed919"
   integrity sha512-GaHYm+c0O9MjZRu0ongGBRbinu8gVAMd2UZjji6jVmqKtZluZnptXGWhz1E8j8D2HJ3f/yMxKAUC0b+57wncIw==
 
-"@middy/core@^3.4.0":
-  version "3.6.2"
-  resolved "https://registry.yarnpkg.com/@middy/core/-/core-3.6.2.tgz#8d3fd3b4aa4c62a9f21a340559d6b6d3c0b37ca7"
-  integrity sha512-/vyvG34RIt7CTmuB/jksGkk9vs6RCoOlRFPfdQq11dHkiKlT2mm8j/jZx7gSpEhXXh9LeaEMuKPnsgWBIlGS1g==
+"@middy/core@^4.2.1":
+  version "4.2.1"
+  resolved "https://registry.yarnpkg.com/@middy/core/-/core-4.2.1.tgz#44e6ad584dc965fccfc4d94d496f2aac63f372e9"
+  integrity sha512-0Bcslcw83SomVaAjszdLTBjuL3pj+a54rVN+tc9Cn8/zXuEyvGOLD+gpcl1LRsNeCehz1P/S4AoCIVbCjOi8fQ==
 
-"@middy/http-json-body-parser@^3.4.0":
-  version "3.6.2"
-  resolved "https://registry.yarnpkg.com/@middy/http-json-body-parser/-/http-json-body-parser-3.6.2.tgz#1e030a39eac5fe5fa282a363d9ed533bc3158256"
-  integrity sha512-vFvlVtR99zwnr9clQkS+D9PAwDcjH4owLpYZ3yAkNI3z40L4QMF/s+5KI5fUd5RvZgTakAeZ5Qf+1QwTrts+Gw==
+"@middy/http-json-body-parser@^4.2.1":
+  version "4.2.1"
+  resolved "https://registry.yarnpkg.com/@middy/http-json-body-parser/-/http-json-body-parser-4.2.1.tgz#14395dccbb957fbdf56da133c10c66d31ba33c4d"
+  integrity sha512-PwPYSM5AEKbIFwsHFA2tHNaYdchHbYozfZNyLYo4XXtMaQdvm/uYIxv1rMvp4tzcPs4+8lY4isJ66T/j03zAxA==
   dependencies:
-    "@middy/util" "3.6.2"
+    "@middy/util" "4.2.1"
 
-"@middy/util@3.6.2":
-  version "3.6.2"
-  resolved "https://registry.yarnpkg.com/@middy/util/-/util-3.6.2.tgz#2d49a4f9b6ab7fe3635b1123cfcfe35892743e5c"
-  integrity sha512-zjyjF5BdSNnDlZbTvfQwwuUIs3H5PpN/R3wOAipXhaGD/SjpIUBcJJPLUQHySeHoZym1FC3MJYczJDbYQWKWdg==
+"@middy/util@4.2.1":
+  version "4.2.1"
+  resolved "https://registry.yarnpkg.com/@middy/util/-/util-4.2.1.tgz#519c25ef82ab63e8a0ee2270854e73c0eae3048c"
+  integrity sha512-d1ouN76F2fVf7+beaXytLQu4hucIIO9w7PeAyB/77FG5pEbkQNoBBkB3zcz3eW7PkpPFgjvmnKisCc1LXC2JFA==
 
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
